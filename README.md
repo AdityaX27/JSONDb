@@ -53,9 +53,8 @@ This project is a dynamic Student Enrollment Form that enables users to save, up
 - [Bootstrap Documentation](https://getbootstrap.com/docs/3.4/)
 
 ## Other Information
-- **Contributors:** [Your Name]
-- **License:** [Specify License Here, e.g., MIT License]
-- **Contact:** [Your Email Address]
+- **Contributors:** Aditya Singh
+- **Contact:** adityas12337@gmail.com
 
 For any issues or feature requests, please open an issue on the [GitHub repository](link-to-your-repository).
 
